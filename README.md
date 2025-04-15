@@ -1,4 +1,4 @@
-# 最新Yahooニュース（2025-04-15 19:58:41）
+# 最新Yahooニュース（2025-04-15 19:59:50）
 
 - [1万博で物議醸すトイレ「舐めてんのかと思った」　なぜこの仕様に？　ネットも「デザインの失敗」指摘ENCOUNT4/15(火)15:20](https://news.yahoo.co.jp/articles/205cc26d98a002682957cccaf6a636bec39844cf)
 - [2「べ…別人やんけw」アイドルの“すっぴん”にファンツッコミ「こんな変われるのw」ENCOUNT4/15(火)11:38](https://news.yahoo.co.jp/articles/6ffa5f0361c8ea6070d9a74fe66ad865de0540c9)
