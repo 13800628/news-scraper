@@ -1,5 +1,6 @@
 # 最新Yahooニュース（2025-04-15 22:56:33）
 
+<<<<<<< Updated upstream
 - [1万博で物議醸すトイレ「舐めてんのかと思った」　なぜこの仕様に？　ネットも「デザインの失敗」指摘ENCOUNT4/15(火)15:20](https://news.yahoo.co.jp/articles/205cc26d98a002682957cccaf6a636bec39844cf)
 - [2いとうまい子、60歳で大学教授に “ヤラセ”や“性接待”など芸能界での苦い記憶を明かすABEMA TIMES4/15(火)19:02](https://news.yahoo.co.jp/articles/f5deea8eca1facfe6d952ed096c6492e229d0fcb)
 - [3ママ友に「今年度から高校授業料無償化でうれしいね」と話したら、「それ、他の人に言わないほうがいいよ」と返答が！ なにか悪いことを言ってしまったの？“気を付けるべき理由”を解説ファイナンシャルフィールド4/15(火)12:20](https://news.yahoo.co.jp/articles/c24a39601ee23e794a36ec25d1aabd5d637d6699)
@@ -16,3 +17,25 @@
 - [3「結果にはなぜそうなったかの理由が必ずあります」広末涼子の追突事故時の同乗者が意味深インスタ投稿ピンズバNEWS4/15(火)17:17](https://news.yahoo.co.jp/articles/ab518a67d1901770922c0377f30409ff1d7ca28e)
 - [4黒田清子さん　夫・慶樹さんが都庁の退職目前で派遣された「定年後の就職先」女性自身4/15(火)6:00](https://news.yahoo.co.jp/articles/3cdea061360a178ca29743491f8d7999088b944c)
 - [5裏アカでメンバーの悪口＆男性写真流出のモー娘。にファン激怒「解雇させた方がいい」連続謝罪の窮地週刊女性PRIME4/15(火)20:02](https://news.yahoo.co.jp/articles/9aa1900dec2a7b842c1a974d5ea2e36b43b40fc1)
+=======
+## Overview
+This is a Python-based news scraper that extracts news articles from Yahoo! News and saves them in CSV format. The scraper is automated to run daily at 7:00 AM using a cron job.
+
+## Features
+- Scrapes news articles from Yahoo! News.
+- Automatically runs daily at 7:00 AM using cron.
+- Saves data in CSV format.
+- Easy to modify for scraping other news websites.
+
+## Tech Stack
+- Python 3.x
+- BeautifulSoup for web scraping
+- pandas for CSV file handling
+- cron for scheduling automated runs
+- requests for HTTP requests
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/news-scraper.git
+>>>>>>> Stashed changes
