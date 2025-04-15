@@ -1,4 +1,4 @@
-# 最新Yahooニュース（2025-04-15 20:57:01）
+# 最新Yahooニュース（2025-04-15 20:58:02）
 
 - [1万博で物議醸すトイレ「舐めてんのかと思った」　なぜこの仕様に？　ネットも「デザインの失敗」指摘ENCOUNT4/15(火)15:20](https://news.yahoo.co.jp/articles/205cc26d98a002682957cccaf6a636bec39844cf)
 - [2いとうまい子、60歳で大学教授に “ヤラセ”や“性接待”など芸能界での苦い記憶を明かすABEMA TIMES4/15(火)19:02](https://news.yahoo.co.jp/articles/f5deea8eca1facfe6d952ed096c6492e229d0fcb)
