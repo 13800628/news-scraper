@@ -82,3 +82,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Git操作：スクレイピング完了後に自動でコミットしてpush
+os.system("cd /Users/isayamayuto/Desktop/news.scraper && git add .")
+os.system('cd /Users/isayamayuto/Desktop/news.scraper && git commit -m "Auto-update: scraped data"')
+os.system("cd /Users/isayamayuto/Desktop/news.scraper && git push origin main")
